@@ -1,0 +1,9 @@
+# .NET Core Project
+/bin
+/obj
+
+bin
+obj
+
+# IDE - VSCode
+.vscode/*
